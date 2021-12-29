@@ -1,9 +1,7 @@
-# CrunchyrollChk
+#CrunchyrollChk
 
-Instalacion..
+Instalacion:
 
 ./install.sh
 
-Canal https://t.me/SilverBulletO
-
-Creador @OcTha_DroidXz
+Creador: @OcTha_DroidXz
