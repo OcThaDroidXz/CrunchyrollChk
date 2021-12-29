@@ -1,4 +1,4 @@
-apt update && apt upgrade -y
-pkg install python -y
+apt update && apt upgrade
+pkg install python
 pip install colorama
 pip install requests
